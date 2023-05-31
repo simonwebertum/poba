@@ -1,6 +1,6 @@
 # Power Bundle Adjustment for Large-Scale 3D Reconstruction, CVPR 2023
 
-Welcome to the official page of the paper [Power Bundle Adjustment for Large-Scale 3D Reconstruction (CVPR 2023)](https://arxiv.org/pdf/2204.12834.pdf).
+Welcome to the official page of the paper [Power Bundle Adjustment for Large-Scale 3D Reconstruction (CVPR 2023)](https://arxiv.org/pdf/2204.12834.pdf). You can find a video presentation [here](https://www.youtube.com/watch?v=2DXJvJM2ExQ).
 
 ## Open-Source Implementation
 
