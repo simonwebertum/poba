@@ -4,7 +4,7 @@ Welcome to the official page of the paper [Power Bundle Adjustment for Large-Sca
 
 ## Open-Source Implementation
 
-The official implementation of PoBA will be available [here](https://github.com/NikolausDemmel/rootba/blob/master/docs/PoBATutorial.md).
+The official implementation of PoBA **is available [here](https://github.com/NikolausDemmel/rootba/blob/master/docs/PoBATutorial.md)**.
 
 ## Abstract
 
